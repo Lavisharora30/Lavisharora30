@@ -1,5 +1,5 @@
 Hello  @Everyone !
-I am Lavish Arora , pursuing B-Tech at JIIT Noida and I have completed my 1st year .
+I am Lavish Arora , pursuing CSE at JIIT Noida.
 I am a competitive programmer and love problem solving .
 I have learned C,C++ and currently working on DSA .
 Also I am a beginner in open source .
