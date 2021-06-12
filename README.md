@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lavisharora30/Lavisharora30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hello All
 I am Lavish Arora , pursuing B-Tech at JIIT Noida .I am a competitive programmer and love problem solving .
 I have learned C,C++ and currently working on DSA .
 Also I am a beginner in open source .
