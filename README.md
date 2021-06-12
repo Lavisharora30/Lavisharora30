@@ -5,7 +5,7 @@
  Also I am a beginner in open source .
  Would love to connect with you all!
  
- [![Lavish Arora GitHub stats](https://github-readme-stats.vercel.app/api?Lavisharora30=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://komarev.com/ghpvc/?username=Lavisharora30-05&color=darkblue)
 
  
  
