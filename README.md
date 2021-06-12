@@ -9,7 +9,6 @@ Would love to connect with you all!
 - 🌱 I’m currently learning ...DSA
 - 👯 I’m looking to collaborate on ...C/C++ Projects 
 - 🤔 I’m looking for help with ...DSA
-- 💬 Ask me about ...
 - 📫 How to reach me: ...✔[Linkedin](https://www.linkedin.com/in/lavish-arora-30/)  ✔[Mail](mailto:lavish.arora.3019@gmail.com)
 -->
 
