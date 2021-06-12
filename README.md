@@ -5,7 +5,7 @@
  Also I am a beginner in open source .
  Would love to connect with you all!
  
- ![](https://komarev.com/ghpvc/?username=Lavisharora30-05&color=darkblue)
+![](https://komarev.com/ghpvc/?username=Lavisharora30&color=blueviolet)
 
  
  
