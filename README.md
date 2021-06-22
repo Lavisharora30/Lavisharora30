@@ -9,7 +9,11 @@ Would love to connect with you all!
 - 🌱 I’m currently learning ...DSA
 - 👯 I’m looking to collaborate on ...C/C++ Projects 
 - 🤔 I’m looking for help with ...DSA
-- 📫 How to reach me: ...✔[Linkedin](https://www.linkedin.com/in/lavish-arora-30/)  ✔[Mail](mailto:lavish.arora.3019@gmail.com)
+- 📫 How to reach me: ...
+- ✔[Linkedin](https://www.linkedin.com/in/lavish-arora-30/)  
+- ✔[Twitter](https://twitter.com/Lavish_arora_30) 
+- ✔[Instagram](https://www.instagram.com/lavisharora30/)
+- ✔[Mail](mailto:lavish.arora.3019@gmail.com)
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavisharora30&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
