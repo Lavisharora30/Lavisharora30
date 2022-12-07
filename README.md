@@ -1,7 +1,6 @@
 ### Hi there <img src="https://github.com/Lavisharora30/Lavisharora30/blob/main/img/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 <p align="center">
-<img src="https://github.com/Lavisharora30/Lavisharora30/blob/main/img/lavish6.jpg" height="60%" width="30%"></p>
 <p align="center">
 <a href="https://twitter.com/Lavish_arora_30"><img height="30" src="https://github.com/Lavisharora30/Lavisharora30/blob/main/img/social/t.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lavish-arora-30/"><img height="30" src="https://github.com/Lavisharora30/Lavisharora30/blob/main/img/social/l.png"></a>&nbsp;&nbsp;
